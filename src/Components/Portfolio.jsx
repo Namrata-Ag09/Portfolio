@@ -19,7 +19,7 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/design-desk.jpeg";
+import image from "/workspaces/Portfolio/src/images/nathan-da-silva-k-rKfqSm4L4-unsplash.jpg";
 
 const imageAltText = "desktop with books and laptop";
 
@@ -31,28 +31,24 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Skills and Interests",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "I possess a diverse set of skills that include proficiency in programming language like Java and Python, along with a strong foundation in web development and problem solving. My interests lies in exploring new technologies, creating innovative solutions through programming and contributing to impactful projects that make a positive difference in society. I am committed to continuous learning and staying abreast of the latest trends in technology and programming.",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Projects",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "I am currently working on a project to develop a website that links government hospitals, checks bed and and doctor availability in rural areas, and facilitates appointment bookings and complaint filings. The technologies I am using to design the front end is the combination of HTML,CSS and Javascript while for Back End I am going with Django. There is use of some other required technologies too",
   },
   {
-    title: "My Resume Site",
+    title: "Extracurricular Activities",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "In order to enhance my current knowledge I have taken part in several hackathones and coding competions in which I gained valuable experience and learned about the things which were unknown to me.",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Career Goals",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "My career goals are to become a proficient software developer or engineer, to work on innovative projects leveraging emerging technologies like artificial intelligence or machie learning, and contribute to software solutions addressing real-world challenges such as sustainability, healthcare, or education to make a positive impact on society.",
   },
 ];
 
